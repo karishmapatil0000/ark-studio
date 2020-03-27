@@ -25,7 +25,7 @@ header {
 }
 
 #header_div {
-  background-image: url("\ark-studio\img\billboard.jpg");
+  background-image: url(/ark-studio/img/billboard.jpg);
   z-index: 5;
 }
 
@@ -57,7 +57,7 @@ a {
 }
 
 .cta {
-  background-image: url("\ark-studio\img\billboard.jpg");
+  background-image: url(/ark-studio/img/billboard.jpg);
   position: relative;
   /* float: left; */
   width: 100%;
@@ -117,16 +117,12 @@ a {
 .services li {
 position: relative;display: inline-block;
 }
-
 .services p {
   width: 250px; margin-top: 0px;
 }
-
 .services h2 {
   width: 250px; text-align: center; word-wrap: normal; font-size: medium; color: #616264; font-family: Verdana, Geneva, Tahoma, sans-serif;
-
 }
-
 .recent_work {
   width: 100%;
 }
@@ -153,7 +149,6 @@ position: relative;display: inline-block;
   width: 66%;
   height: 60%;
 }
-
 .testimonials h1{
   margin-top: 0px;margin-bottom: 50px; padding-top: 60px; color: #616264; font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -263,58 +258,47 @@ h4 {
 
 .social_icons {
   margin-top: 10px;
-  background-image: url("\ark-studio\img\social.png");
+  background-image: url(/ark-studio/img/social.png);
   background-repeat: no-repeat;
   height: 25px;
 }
 
 .social_icons:hover {
-  background-image: url("\ark-studio\img\social_hover.png");
+  background-image: url(/ark-studio/img/social_hover.png);
 }
 
 #cta_1 {
   margin-top: 0; margin-bottom: 0; width: 60%; padding: 3%;  display: inline-block; letter-spacing: 0.12rem;
 }
-
 #comp_list {
   padding: 0; margin: 0; font-size: 14px;
 }
-
 #cta_2 {
 color: white; text-decoration: none; margin-left: 5%; padding: 1% 5%;  background-color: #50ccff;
 }
-
 #sup_item_1,#sup_item_2,#sup_item_3,#comp_item_1,#comp_item_2,#comp_item_3 {
 padding-bottom: 8px;
 padding-bottom: 8px;
 padding-bottom: 8px;
 }
-
 .testimonials p{
 width: 250px; margin-top: 10px; color: #aaabb6; font-size:small;
-
 }
-
 .testimonials img {
 border-radius: 50%;
 }
-
 .testimonials span{
 color:#aaabb6; font-size: small;
 }
-
 #nav_client1 {
 position: relative;display: inline-block;left: -140px;   
 }
-
 #nav_client2 {
 display: inline-block;position: relative;left: -20px;
 }
-
 #nav_client3{
 position: relative;display: inline-block;left: 90px;
 }
-
 .cta_div{
 width: 100%;margin: 0 auto;background-color: #434343;position: relative;
 color: white;
