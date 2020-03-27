@@ -25,7 +25,7 @@ header {
 }
 
 #header_div {
-  background-image: url("\Users\Suyog\Desktop\kari.html\ark-studio\img\billboard.jpg");
+  background-image: url("\ark-studio\img\billboard.jpg");
   z-index: 5;
 }
 
@@ -57,7 +57,7 @@ a {
 }
 
 .cta {
-  background-image: url("\Users\Suyog\Desktop\kari.html\ark-studio\img\billboard.jpg");
+  background-image: url("\ark-studio\img\billboard.jpg");
   position: relative;
   /* float: left; */
   width: 100%;
@@ -263,13 +263,13 @@ h4 {
 
 .social_icons {
   margin-top: 10px;
-  background-image: url(\Users\Suyog\Desktop\kari.html\ark-studio\img/social.png);
+  background-image: url("\ark-studio\img\social.png");
   background-repeat: no-repeat;
   height: 25px;
 }
 
 .social_icons:hover {
-  background-image: url(\Users\Suyog\Desktop\kari.html\ark-studio\img/social_hover.png);
+  background-image: url("\ark-studio\img\social_hover.png");
 }
 
 #cta_1 {
